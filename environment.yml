@@ -1,0 +1,22 @@
+name: "base"
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - plotly=4.14.3
+  - conda-forge::voila=0.2.7
+  - hdfs3
+  - pip
+  - pip:
+      - scikit-learn
+      - geopandas
+      - geopy
+      - networkx
+      - pyarrow
+# - add packages here
+# - one per line
+prefix: "/opt/conda"
+
