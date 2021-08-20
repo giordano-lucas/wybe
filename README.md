@@ -1,3 +1,5 @@
+<img width="555" alt="Screenshot 2021-08-20 at 19 40 41" src="https://user-images.githubusercontent.com/43466781/130272751-57ced233-77e5-42f7-b637-166752b0cf25.png">
+
 # Wybe : a Robust Journey Planner
 
 **Executive summary:** build a robust SBB journey planner for the Zürich area
